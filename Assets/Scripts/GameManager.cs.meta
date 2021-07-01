@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d38fbd2c44718584eb1ab86f36f89443
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Knife: {fileID: 919132149155446097, guid: 58ea2695c81a25b4b8a3228aaed72d09, type: 3}
+  - GoPanel: {instanceID: 0}
+  - StartPanel: {instanceID: 0}
+  - GoScoreTxt: {instanceID: 0}
+  - GoMessage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
